@@ -1,0 +1,47 @@
+@font-face {
+	font-family: static;
+	src:url(../fonts/STIXTwoText[wght].woff2);
+}
+
+.container {
+	border: solid hotpink 20px;
+	position: absolute;
+	left: 20%;
+	top: 10%;
+
+.btn {
+	font-family: static;
+	font-size: 26px;
+	background: lightpink;
+	position: absolute;
+	top: 5%;
+	left: 45%;
+}
+
+.text {
+	font-family:static;
+	width: 250px;
+	font-size: 50px;
+	color: hotpink;
+	position: absolute;
+	left: 78%;
+	top:2%;
+}
+
+.title {
+	font-family:static;
+	width: 800px;
+	font-size: 26px;
+	font-weight: 300;
+	letter-spacing: .4px;
+	color: hotpink;
+	position: absolute;
+	top:107%;
+	left: 20%;
+}
+
+.cover {
+		width: 336px;
+		height:285px;
+		background: url(..images/nothing.jpeg);
+}
